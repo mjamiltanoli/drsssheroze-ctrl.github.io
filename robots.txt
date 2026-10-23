@@ -1,3 +1,1 @@
-User-agent: *
-Allow: /
-Sitemap: https://drsssheroze-ctrl.github.io/sitemap.xml
+Sitemap: https://mjamiltanoli.github.io/sitemap.xml
